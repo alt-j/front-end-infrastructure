@@ -32,14 +32,6 @@
 
     <section class="slide">
         <h2>
-            Что такое инфраструктура?
-        </h2>
-        <img src="images/man-with-tools.png" class="place b l" height="250px" style="bottom: 80px; left: 250px;">
-        <img src="images/programmer.jpg" class="place m r" height="250px" style="right: 50px;">
-    </section>
-
-    <section class="slide">
-        <h2>
             На заре web
         </h2>
         <ul>
@@ -266,16 +258,30 @@
 
     <section class="slide">
         <h2>
+            Статические анализаторы кода (Linters)
+        </h2>
+
+        <p style="width: 400px;">
+            <a href="http://eslint.org/">ESLint</a> is pluggable linting utility for JavaScript and JSX.
+            <br><br>
+
+            <a href="https://github.com/eslint/eslint">https://github.com/eslint/eslint</a>
+        </p>
+
+        <img src="images/eslint.png" height="300px" class="place r" style="right: 50px;">
+    </section>
+
+    <section class="slide">
+        <h2>
             Перехватчики событий (Hooks)
         </h2>
 
-        <span>Инструмент позволяющий подписаться на какое-то событие:</span>
         <ul>
             <li>
-                <a href="https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks">Git Hooks</a> - события связанные с git (создание commit, добавление commit message, получение удаленной версии репозитория, etc)
+                <a href="https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks">Git Hooks</a> a way to fire off custom scripts when certain important actions occur.
             </li>
             <li>
-                Web Hooks
+                Webhooks are "user-defined HTTP callbacks". They are usually triggered by some event, such as pushing code to a repository or a comment being posted to a blog.
             </li>
         </ul>
     </section>
@@ -310,7 +316,7 @@
             </li>
         </ul>
 
-        <img src="images/code-review.png" class="place r" height="380px" style="margin-top: 25px;">
+        <img src="images/code-review.jpg" class="place r" height="380px" style="margin-top: 25px;">
     </section>
 
     <section class="slide">
@@ -356,13 +362,13 @@
 
         <ul>
             <li>
-                Еще один вариант документации
+                Еще один вариант документации.
             </li>
             <li>
-                Позволяет избегать глупых ошибок
+                Позволяет избегать глупых ошибок.
             </li>
             <li>
-                Обеспечаивает надежность кода (гарантирует, что код работает)
+                Обеспечаивает надежность кода.
             </li>
         </ul>
     </section>
@@ -373,10 +379,18 @@
         </h2>
 
         <ul>
-            <li>Mocha (тестовый фреймворк)</li>
-            <li>Chai (assertion library)</li>
-            <li>Sinon.JS (библиотека для создания mock'ов, stub'ов, spy'ев)</li>
-            <li>Karma runner</li>
+            <li>
+                <a href="https://mochajs.org/">Mocha</a> (testing framework)
+            </li>
+            <li>
+                <a href="http://chaijs.com/">Chai</a> (assertion library)
+            </li>
+            <li>
+                <a href="http://sinonjs.org/">Sinon.JS</a> (library for mocks, stubs, spy)
+            </li>
+            <li>
+                <a href="http://karma-runner.github.io/">Karma runner</a>
+            </li>
             <li>...</li>
         </ul>
     </section>
@@ -386,8 +400,8 @@
             Регресионное тестирования
         </h2>
 
-        <p style="width: 500px;">
-            Чтобы проверить, что не сломалось ничего из того, что не должно было сломаться.
+        <p style="width: 500px; position: relative; margin-top: 110px;">
+            Чтобы проверить, что не сломалось ничего из того, что не должно было сломаться :)
         </p>
 
         <img src="images/unit-tests.png" class="place r" height="350px" style="right: 100px">
@@ -411,11 +425,9 @@
             <li>...</li>
         </ul>
 
-        <p class="place r" style="right: 140px; margin-top: -85px;">
-            Инструменты тестирования css: <a href="http://csste.st/tools/">csste.st</a>.
+        <p class="place r" style="right: 140px; margin-top: -65px; width: 500px">
+            О подходах и инструментах для тестирования css: <a href="http://csste.st/tools/">csste.st</a>.
         </p>
-
-        <img src="images/css-testing.jpg" class="place r b" height="320px">
     </section>
 
     <section class="slide">
@@ -464,11 +476,52 @@
                 Генерация документации.
             </li>
             <li>
-                Любые самописные, которые делают мир лучше...
+                Любые самописные инструменты, которые делают мир лучше...
             </li>
         </ul>
 
         <img src="images/stop-me.jpg" class="place r" height="320px">
+    </section>
+
+    <section class="slide" style="overflow: hidden">
+        <img src="images/seed.jpg" style="width: 100%; position: absolute; bottom: -110px; right: 0;">
+
+        <h2 style="position: relative">
+            Напутсвите
+        </h2>
+
+        <ul style="position: relative; width: 800px">
+            <li>
+                Хорошая инфраструктура - экономит время
+            </li>
+            <li>
+                Не стоит использовать сомнительные разработки
+            </li>
+            <li>
+                Соблюдать баланс
+            </li>
+        </ul>
+    </section>
+
+    <section class="slide" style="overflow: hidden">
+        <img src="images/seed.jpg" style="width: 100%; position: absolute; bottom: -110px; right: 0;">
+
+        <h2 style="position: relative">
+            Напутсвите
+        </h2>
+
+        <ul style="position: relative">
+            <li>
+                <a href="https://github.com/alt-j/js-seed">
+                    https://github.com/alt-j/js-seed
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/baby-loris/baby-bem">
+                    https://github.com/baby-loris/baby-bem
+                </a>
+            </li>
+        </ul>
     </section>
 
     <section class="slide">
