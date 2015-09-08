@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 265 265" enable-background="new 0 0 265 265" xml:space="preserve">
+<symbol  id="Dev_Meeple" viewBox="-20.6 -40 41.3 80">
+	<path fill="#EBF2F9" stroke="#205081" stroke-miterlimit="10" d="M6.4-10.5l-6.6,1l-6.6-1c-4.8-0.7-8.3-4.9-8.3-9.7v-19.4h29.8
+		v19.4C14.7-15.3,11.2-11.2,6.4-10.5z"/>
+	<path fill="#3B7FC4" stroke="#205081" stroke-linejoin="round" stroke-miterlimit="10" d="M-0.4-18.5c4.2,0,7.6,3.4,7.6,7.6v0.3
+		c-0.2,0.1-0.5,0.1-0.8,0.2l-6.6,1l-6.6-1c-0.4-0.1-0.8-0.1-1.1-0.3V-11C-8-15.1-4.6-18.5-0.4-18.5z"/>
+	<path fill="#FFFFFF" stroke="#205081" stroke-miterlimit="10" d="M-0.4-15.5L-0.4-15.5c-2.5,0-4.6,2-4.6,4.6v7.6h9.2V-11
+		C4.2-13.5,2.1-15.5-0.4-15.5z"/>
+	<path fill="#FFFFFF" stroke="#205081" stroke-miterlimit="10" d="M-0.2-7.5h-0.5c-8.7,0-15.7,7-15.7,15.7v16
+		c0,7.3,5.9,13.3,13.3,13.3h5.3c7.3,0,13.3-5.9,13.3-13.3v-16C15.5-0.5,8.5-7.5-0.2-7.5z"/>
+	<path fill="#FFFFFF" stroke="#205081" stroke-miterlimit="10" d="M15.5,18.5v-8.3c0-0.1,0-0.2,0-0.2c2.2,0.2,3.9,2.1,3.9,4.3
+		C19.4,16.4,17.7,18.2,15.5,18.5z"/>
+	<path fill="#FFFFFF" stroke="#205081" stroke-miterlimit="10" d="M-16.3,10.3v8.3c-2.2-0.2-3.8-2.1-3.8-4.3c0-2.2,1.7-4,3.9-4.3
+		C-16.3,10.1-16.3,10.2-16.3,10.3z"/>
+	<path fill="#FFFFFF" stroke="#205081" stroke-miterlimit="10" d="M-0.4-0.1c1.9,0,3.5,1.6,3.5,3.5h-6.9C-3.9,1.5-2.3-0.1-0.4-0.1z"
+		/>
+	<g>
+		<g>
+			<g>
+				<path fill="#59AFE1" stroke="#205081" stroke-miterlimit="10" d="M-16.3,23.3c0,10,2.6,12.4,7.6,13c0.7,1.2,2.7,3.1,8.5,3.1
+					c5.6,0,9.6-3.1,11.2-4.4c2.5-2,4.7-2.7,8.9-1.3c0,0-2.7-8.8-13.7-8.8c-9.4,0-11.6,5-11.6,5S-8.5,23.6-16.3,23.3"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<path fill="#EBF2F9" stroke="#205081" stroke-miterlimit="10" d="M-2.7,14.9c0-2.3-1.9-4.3-4.3-4.3s-4.3,1.9-4.3,4.3
+			s1.9,4.3,4.3,4.3S-2.7,17.3-2.7,14.9z"/>
+		<path fill="#EBF2F9" stroke="#205081" stroke-miterlimit="10" d="M10.4,14.9c0-2.3-1.9-4.3-4.3-4.3s-4.3,1.9-4.3,4.3
+			s1.9,4.3,4.3,4.3S10.4,17.3,10.4,14.9z"/>
+	</g>
+	<line fill="none" stroke="#205081" stroke-miterlimit="10" x1="10.4" y1="14.9" x2="15.5" y2="18.5"/>
+	<line fill="none" stroke="#205081" stroke-miterlimit="10" x1="-11.2" y1="14.9" x2="-16.3" y2="18.6"/>
+	<path fill="none" stroke="#205081" stroke-miterlimit="10" d="M-2.7,14.9c0,0,0.9,1.6,2.3,1.6s2.3-1.6,2.3-1.6"/>
+</symbol>
+<symbol  id="Normal_Meeple" viewBox="-20.6 -40 41.3 80">
+	<path fill="#EBF2F9" stroke="#205081" stroke-miterlimit="10" d="M6.4-10.5l-6.6,1l-6.6-1c-4.8-0.7-8.3-4.9-8.3-9.7v-19.4h29.8
+		v19.4C14.7-15.3,11.2-11.2,6.4-10.5z"/>
+	<path fill="#FFFFFF" stroke="#205081" stroke-miterlimit="10" d="M-0.4-15.5L-0.4-15.5c-2.5,0-4.6,2-4.6,4.6v7.6h9.2v-7.6
+		C4.2-13.5,2.1-15.5-0.4-15.5z"/>
+	<path fill="#FFFFFF" stroke="#205081" stroke-miterlimit="10" d="M-0.2-7.5h-0.5c-8.7,0-15.7,7-15.7,15.7v16
+		c0,7.3,5.9,13.3,13.3,13.3h5.3c7.3,0,13.3-5.9,13.3-13.3v-16C15.5-0.5,8.5-7.5-0.2-7.5z"/>
+	<path fill="#FFFFFF" stroke="#205081" stroke-miterlimit="10" d="M15.5,18.5v-8.3c0-0.1,0-0.2,0-0.2c2.2,0.2,3.9,2.1,3.9,4.3
+		C19.4,16.4,17.7,18.2,15.5,18.5z"/>
+	<path fill="#FFFFFF" stroke="#205081" stroke-miterlimit="10" d="M-16.3,10.3v8.3c-2.2-0.2-3.8-2.1-3.8-4.3c0-2.2,1.7-4,3.9-4.3
+		C-16.3,10.1-16.3,10.2-16.3,10.3z"/>
+	<path fill="#FFFFFF" stroke="#205081" stroke-miterlimit="10" d="M-0.4-0.1c1.9,0,3.5,1.6,3.5,3.5h-6.9C-3.9,1.5-2.3-0.1-0.4-0.1z"
+		/>
+	<g>
+		<g>
+			<g>
+				<path fill="#59AFE1" stroke="#205081" stroke-miterlimit="10" d="M-16.3,23.4c0,10,2.6,12.4,7.6,13c0.7,1.2,2.7,3.1,8.5,3.1
+					c5.6,0,9.6-3.1,11.2-4.4c2.5-2,4.7-2.7,8.9-1.3c0,0-2.7-8.8-13.7-8.8c-9.4,0-11.6,5-11.6,5S-8.5,23.6-16.3,23.4"/>
+			</g>
+		</g>
+	</g>
+	<polygon fill="#F6C342" stroke="#1A4263" stroke-miterlimit="10" points="-3.9,-26.7 -6.7,-28.4 -9.6,-26.7 -9.6,-20.6 -3.9,-20.6 
+			"/>
+	<path fill="none" stroke="#205081" stroke-linecap="round" stroke-miterlimit="10" d="M-10.2,13.8c0,1.5,1.2,2.7,2.7,2.7
+		s2.7-1.2,2.7-2.7"/>
+	<path fill="none" stroke="#205081" stroke-linecap="round" stroke-miterlimit="10" d="M4.1,13.8c0,1.5,1.2,2.7,2.7,2.7
+		s2.7-1.2,2.7-2.7"/>
+</symbol>
+<symbol  id="Woman_Meeple" viewBox="-20.3 -39.8 40.5 79.7">
+	<path fill="#FFFFFF" stroke="#205081" stroke-miterlimit="10" d="M0.2-7.4h-0.5c-8.7,0-15.7,7-15.7,15.7v16
+		c0,7.3,5.9,13.3,13.3,13.3h5.3c7.3,0,13.3-5.9,13.3-13.3v-16C15.9-0.3,8.9-7.4,0.2-7.4z"/>
+	<path fill="#FFFFFF" stroke="#205081" stroke-miterlimit="10" d="M15.9,18.7v-8.3c0-0.1,0-0.2,0-0.2c2.2,0.2,3.9,2.1,3.9,4.3
+		C19.8,16.6,18.1,18.4,15.9,18.7z"/>
+	<path fill="#FFFFFF" stroke="#205081" stroke-miterlimit="10" d="M-15.9,10.5v8.3c-2.2-0.2-3.8-2.1-3.8-4.3c0-2.2,1.7-4,3.9-4.3
+		C-15.9,10.3-15.9,10.4-15.9,10.5z"/>
+	<path fill="#FFFFFF" stroke="#205081" stroke-miterlimit="10" d="M0,0.1c1.9,0,3.5,1.6,3.5,3.5h-6.9C-3.5,1.7-1.9,0.1,0,0.1z"/>
+	<path fill="#59AFE1" stroke="#205081" stroke-miterlimit="10" d="M2.6,39.3h-5.3c-8,0-14.5-6.2-15-14.2l-0.1-1v-48.3h35.3v47.1v1.5
+		C17.6,32.6,10.9,39.3,2.6,39.3z M0.2-7.4h-0.5c-8.7,0-15.7,7-15.7,15.7v14.8c2.6-1.3,5.6-2.1,8.8-2.1c5,0,9.6,1.8,12.6,4.8
+		c2.3-2.1,5.5-3.4,8.9-3.4c0.5,0,1,0,1.6,0.1V8.3C15.9-0.3,8.9-7.4,0.2-7.4z"/>
+	<path fill="#EBF2F9" stroke="#205081" stroke-miterlimit="10" d="M6.8-10.3l-6.6,1l-6.6-1c-4.8-0.7-8.3-4.9-8.3-9.7v-19.4h29.8V-20
+		C15.1-15.1,11.6-11,6.8-10.3z"/>
+	<path fill="#FFFFFF" stroke="#205081" stroke-miterlimit="10" d="M0.2-7.4h-0.5c-1.5,0-3,0.2-4.3,0.6v-4c0-2.5,2-9.5,4.6-9.5
+		c2.5,0,4.6,7,4.6,9.5v4C3.2-7.1,1.7-7.4,0.2-7.4z"/>
+	<path fill="none" stroke="#205081" stroke-linecap="round" stroke-miterlimit="10" d="M-9.8,12.9c0,1.5,1.2,2.7,2.7,2.7
+		s2.7-1.2,2.7-2.7"/>
+	<path fill="none" stroke="#205081" stroke-linecap="round" stroke-miterlimit="10" d="M4.5,12.9c0,1.5,1.2,2.7,2.7,2.7
+		s2.7-1.2,2.7-2.7"/>
+</symbol>
+<g>
+	<g>
+		<defs>
+			<circle id="SVGID_1_" cx="56.3" cy="200.1" r="55.8"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_2_)">
+			
+				<use xlink:href="#Normal_Meeple"  width="41.3" height="80" x="-20.6" y="-40" transform="matrix(1.5069 0 0 -1.5069 56.3485 215.7411)" overflow="visible"/>
+		</g>
+		<use xlink:href="#SVGID_1_"  overflow="visible" fill="none" stroke="#205081" stroke-miterlimit="10"/>
+	</g>
+	<g>
+		<defs>
+			<circle id="SVGID_3_" cx="208.7" cy="200.1" r="55.8"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 0 1.525879e-05)" clip-path="url(#SVGID_4_)">
+			
+				<use xlink:href="#Dev_Meeple"  width="41.3" height="80" x="-20.6" y="-40" transform="matrix(1.5198 0 0 -1.5198 208.6549 215.4275)" overflow="visible"/>
+		</g>
+		<use xlink:href="#SVGID_3_"  overflow="visible" fill="none" stroke="#205081" stroke-miterlimit="10"/>
+	</g>
+	<g>
+		
+			<line fill="none" stroke="#1A4263" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="112.1" y1="194.3" x2="152.9" y2="194.3"/>
+		
+			<line fill="none" stroke="#1A4263" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="102" y1="111.7" x2="82.6" y2="150.5"/>
+		
+			<line fill="none" stroke="#1A4263" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="163" y1="111.8" x2="182.4" y2="150.5"/>
+	</g>
+	<g>
+		<defs>
+			<circle id="SVGID_5_" cx="132.5" cy="64" r="55.8"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_6_)">
+			
+				<use xlink:href="#Woman_Meeple"  width="40.5" height="79.7" id="XMLID_5_" x="-20.3" y="-39.8" transform="matrix(1.4511 0 0 -1.4511 131.9137 77.1422)" overflow="visible"/>
+		</g>
+		<use xlink:href="#SVGID_5_"  overflow="visible" fill="none" stroke="#205081" stroke-miterlimit="10"/>
+	</g>
+</g>
+</svg>
